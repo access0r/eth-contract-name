@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cliui": "^8.0.1",
+    "crypto-js": "^4.1.1",
+    "sha3": "^2.1.4",
+    "web3": "^4.1.1",
+    "xmlhttprequest": "^1.8.0",
+    "yargs": "^17.7.2"
+  },
+  "name": "contract-name-retriever",
+  "version": "1.1.0",
+  "description": "Query EVM with addresses to return contract name.",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/access0r/eth-contract-name.git"
+  },
+  "author": "accessor.eth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/access0r/eth-contract-name/issues"
+  },
+  "homepage": "https://github.com/access0r/eth-contract-name#readme"
+}
